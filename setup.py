@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pytest-shelltest',
-    description='Doctest for command line code examples.'
+    description='Doctest for command line code examples.',
     author='Oliver Sanders',
     author_email='.',
     version='0.1',
